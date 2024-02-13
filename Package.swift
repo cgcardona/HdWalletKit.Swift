@@ -4,9 +4,9 @@ import PackageDescription
 
 let package = Package(
     name: "HdWalletKit",
-    platforms: [
-        .iOS(.v13),
-    ],
+    // platforms: [
+    //     .iOS(.v13),
+    // ],
     products: [
         .library(
             name: "HdWalletKit",
